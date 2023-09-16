@@ -1,0 +1,5 @@
+In this section of the project, we have presented an overview of token count analysis in queries and documentation sections to determine if they adhere to prompt limits. Furthermore, we have estimated the costs associated with using the OpenAI API to perform document embeddings. The API offered various models, and in this part of the project, we focused on two specific models: gpt-3.5-turbo and text-embedding-ada-002.
+
+Specialized embedding models like Text-Embedding-ADA were designed to generate high-quality embeddings that captured semantic and contextual information about words and phrases. These models had typically been trained on specific tasks such as semantic similarity, text classification, information retrieval, and more.
+
+On the other hand, GPT-3.5-turbo was a pre-trained model that excelled in performing various natural language processing tasks, including text generation, translation, and comprehension. While GPT-3.5-turbo could provide embeddings for sentences or words, it was not its primary area of expertise.
